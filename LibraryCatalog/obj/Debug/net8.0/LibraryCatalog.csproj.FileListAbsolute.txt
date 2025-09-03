@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Desktop\Desktop\LibraryCatalog\LibraryCatalog\bin\Debug\net8.0\LibraryCatalog.exe
+C:\Users\USER\OneDrive\Desktop\Desktop\LibraryCatalog\LibraryCatalog\bin\Debug\net8.0\LibraryCatalog.deps.json
+C:\Users\USER\OneDrive\Desktop\Desktop\LibraryCatalog\LibraryCatalog\bin\Debug\net8.0\LibraryCatalog.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\Desktop\LibraryCatalog\LibraryCatalog\bin\Debug\net8.0\LibraryCatalog.dll
+C:\Users\USER\OneDrive\Desktop\Desktop\LibraryCatalog\LibraryCatalog\bin\Debug\net8.0\LibraryCatalog.pdb
+C:\Users\USER\OneDrive\Desktop\Desktop\LibraryCatalog\LibraryCatalog\obj\Debug\net8.0\LibraryCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\Desktop\LibraryCatalog\LibraryCatalog\obj\Debug\net8.0\LibraryCatalog.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\Desktop\LibraryCatalog\LibraryCatalog\obj\Debug\net8.0\LibraryCatalog.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\Desktop\LibraryCatalog\LibraryCatalog\obj\Debug\net8.0\LibraryCatalog.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Desktop\LibraryCatalog\LibraryCatalog\obj\Debug\net8.0\LibraryCatalog.sourcelink.json
+C:\Users\USER\OneDrive\Desktop\Desktop\LibraryCatalog\LibraryCatalog\obj\Debug\net8.0\LibraryCatalog.dll
+C:\Users\USER\OneDrive\Desktop\Desktop\LibraryCatalog\LibraryCatalog\obj\Debug\net8.0\refint\LibraryCatalog.dll
+C:\Users\USER\OneDrive\Desktop\Desktop\LibraryCatalog\LibraryCatalog\obj\Debug\net8.0\LibraryCatalog.pdb
+C:\Users\USER\OneDrive\Desktop\Desktop\LibraryCatalog\LibraryCatalog\obj\Debug\net8.0\LibraryCatalog.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\Desktop\LibraryCatalog\LibraryCatalog\obj\Debug\net8.0\ref\LibraryCatalog.dll
