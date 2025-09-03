@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\Desktop\\LibraryCatalog\\LibraryCatalog\\LibraryCatalog.csproj",
+      "projectUniqueName": "c:\\Users\\USER\\OneDrive\\Desktop\\Desktop\\LibraryCatalog\\LibraryCatalog.csproj",
       "projectName": "LibraryCatalog",
-      "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\Desktop\\LibraryCatalog\\LibraryCatalog\\LibraryCatalog.csproj",
+      "projectPath": "c:\\Users\\USER\\OneDrive\\Desktop\\Desktop\\LibraryCatalog\\LibraryCatalog.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\Desktop\\LibraryCatalog\\LibraryCatalog\\obj\\",
+      "outputPath": "c:\\Users\\USER\\OneDrive\\Desktop\\Desktop\\LibraryCatalog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
